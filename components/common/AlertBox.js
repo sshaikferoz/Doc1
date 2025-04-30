@@ -12,6 +12,7 @@ export default function Alerts({
   StrokeColor,
 }) {
   //prettier-ignore
+
   return (
     <div style={style} className={styles.alertItemSVG}>
       {/* <img className={styles.box} src={`${process.env.NEXT_PUBLIC_BSP_NAME}/images/alert-box-shadow.svg`} /> */}
@@ -58,5 +59,5 @@ export default function Alerts({
         </div>
       </div>
     </div>
-  )
+    )
 }
