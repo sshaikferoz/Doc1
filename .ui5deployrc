@@ -1,0 +1,14 @@
+{
+  "cwd": "./out",
+  "files": "**/*.*",
+  "server": "https://dvb.aramco.com.sa:44303",
+  "client": "142",
+  "useStrictSSL": false,
+  "package": "ZBW",
+  "bspContainer": "ZSCM_SCCT_BAK",
+  "bspContainerText": "PSC CT: Control Tower Wal Dashboard",
+  "transportNo": "DVBK9A21KE",
+  "createTransport": false,
+  "transportUseLocked": false,
+  "calculateApplicationIndex": true
+}
